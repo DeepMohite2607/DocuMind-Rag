@@ -44,7 +44,6 @@ NumPy
 PyPDF
 Transformers
 
---- 📂 Project Structure
 DocuMind-RAG/
 │
 ├── data/                 # Documents
@@ -58,7 +57,7 @@ DocuMind-RAG/
 ├── requirements.txt
 ├── .env
 └── README.md
---
+
 ⚙️ Installation
 1. Clone Repository
 git clone https://github.com/DeepMohite2607/DocuMind-Rag.git
