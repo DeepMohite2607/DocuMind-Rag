@@ -44,21 +44,6 @@ NumPy
 PyPDF
 Transformers
 
-📂 Project Structure
-DocuMind-RAG/
-│
-├── data/                 # Documents
-├── embeddings/           # Vector embeddings
-├── src/
-│   ├── ingestion.py      # Document processing
-│   ├── retrieval.py      # Vector search
-│   ├── rag_pipeline.py   # RAG workflow
-│   └── app.py            # Main application
-│
-├── requirements.txt
-├── .env
-└── README.md
-
 ⚙️ Installation
 1. Clone Repository
 git clone https://github.com/DeepMohite2607/DocuMind-Rag.git
