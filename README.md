@@ -44,6 +44,7 @@ NumPy
 PyPDF
 Transformers
 
+📂 Project Structure
 DocuMind-RAG/
 │
 ├── data/                 # Documents
@@ -143,3 +144,18 @@ Large Language Model (LLM)
      │
      ▼
 Generated Answer
+
+📂 Project Structure
+DocuMind-RAG/
+│
+├── data/                 # Documents
+├── embeddings/           # Vector embeddings
+├── src/
+│   ├── ingestion.py      # Document processing
+│   ├── retrieval.py      # Vector search
+│   ├── rag_pipeline.py   # RAG workflow
+│   └── app.py            # Main application
+│
+├── requirements.txt
+├── .env
+└── README.md
