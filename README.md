@@ -8,7 +8,6 @@ DocuMind-RAG enables users to interact with their documents using Large Language
 
 This helps reduce hallucinations and improves answer reliability.
 
----
 
 ## ✨ Features
 
